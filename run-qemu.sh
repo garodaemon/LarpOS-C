@@ -1,0 +1,1 @@
+qemu-system-i386 -drive format=raw,file=larpos.img -d int,cpu_reset,guest_errors -D qemu.log
